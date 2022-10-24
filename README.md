@@ -14,6 +14,8 @@ A Trivia game to play with stream, created to be used while running an ad break 
 
 Pressing **OBS Setup** will create a new scene with all the required sources and effects applied.
 
+![image](https://user-images.githubusercontent.com/10120690/197630222-b2c14022-ba58-4689-8df0-f26580e2f165.png)
+
 # Configuration
 
 Open Setting Button
