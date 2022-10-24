@@ -1,5 +1,7 @@
 # SAMMI-Trivia-Break
 
+![Trivia Break](https://user-images.githubusercontent.com/10120690/197650613-4230cbb2-576e-4332-aec1-254c7ec8009d.png)
+
 A Trivia game to play with stream, created to be used while running an ad break so the viewers with ads don't miss out on the action
 
 ![image](https://user-images.githubusercontent.com/10120690/197626125-a047b0dc-f4ae-4b2e-b1eb-98f124e0ee7a.png)
