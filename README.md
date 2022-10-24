@@ -48,9 +48,13 @@ First it will call out and get the trivia, which can be delayed at times if the 
 
 The countdown will start letting you know how long until the ad runs (if confugured to do so) and when the main timer starts. While this happens the question is set and the answers are randomly assigned to an answer slot.
 
+![image](https://user-images.githubusercontent.com/10120690/197629922-2a1aee60-70e7-4030-9bb5-8cc51d6a0089.png)
+
 The question will first fade in and give a pause allowing you to read it out, then fade in all 4 answers at once with a pause again to allow for reading. The timer will finally fade in and start when the Countdown concludes.
 
 During the halfway point of the timer the first incorrect answer will randomly fade away, then again with 1/4 left to go. When the timer concludes the final wrong answer will fade way long with the timer leaving just the answer and question for a brief period allowing for reaction and for those viewing commercials to see the answer.
+
+![image](https://user-images.githubusercontent.com/10120690/197630084-9218d6c4-5b87-4686-9f4d-3cbd062aa24b.png)
 
 Lastly the **Hide Trivia** buttom will be triggered to conclude the interactions.
 
