@@ -4,7 +4,7 @@
 
 A Trivia game to play with stream, created to be used while running an ad break so the viewers with ads don't miss out on the action
 
-![image](https://user-images.githubusercontent.com/10120690/197626125-a047b0dc-f4ae-4b2e-b1eb-98f124e0ee7a.png)
+![image](https://user-images.githubusercontent.com/10120690/201445100-8e725837-6933-4af9-a6f1-96abf7d287e0.png)
 
 # Required Extension
 
